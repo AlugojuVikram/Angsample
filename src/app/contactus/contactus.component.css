@@ -12,6 +12,10 @@
     margin-bottom: 40px;
     text-transform: uppercase;
     letter-spacing: 1.5px;
+    border-bottom: 2px solid #fff;
+    display: inline-block;
+
+
   }
   
   .contact-container {

@@ -1,5 +1,5 @@
 .teams {
-    padding: 60px 20px;
+    padding:20px;
     text-align: center;
     background: radial-gradient(circle at top, #081c34, #020b17);    
     font-family: 'Poppins', sans-serif;
@@ -8,14 +8,14 @@
   .teams h2 {
     font-size: 2.1rem;
     color: white;
-    margin-bottom: 50px;
+    margin-bottom: 35px;
   }
   
   .teams-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 35px;
-    padding: 0 30px;
+    gap: 30px;
+    padding: 0 35px;
   }
   
   .team-card {
@@ -34,7 +34,7 @@
   
   .team-card img {
     width: 100%;
-    height: 180px;
+    height: 200px;
     object-fit: cover;
     transition: transform 0.3s;
   }
